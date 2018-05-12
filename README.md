@@ -16,3 +16,9 @@
 - Lead off + : GPIO 16
 - Lead off - : GPIO 17
 
+### References
+- "ESP32 #50: Heart Rate / ECG Monitor with AD8232" by pcbreflux
+[Youtube https://www.youtube.com/watch?v=bPefUf0waoA](https://www.youtube.com/watch?v=bPefUf0waoA)
+
+- "DIY ECG"
+[Youtube https://www.youtube.com/watch?v=0JPNoVXht3c](https://www.youtube.com/watch?v=0JPNoVXht3c)
