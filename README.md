@@ -2,7 +2,8 @@
 
 AD8323 ECG(Electronic CardiodiaGram) board is a worth buying device to observe
 the electric activity of heart. 
-Not only viewing ECG by mnitor plot in Arduino IDE , heart beat rate can be monitored remotely by ESP32 and charted by ThingsBoard.
+Not only viewing ECG by monitor plot in Arduino IDE , heart beat rate can be transfered remotely by ESP32 to MQTT server
+ like ThingsBoard running on Raspberry pi and charted by ThingsBoard.
 
 - Heart beat rate is sent to MQTT server every 15sec by default.
 - I recomment to use ThingsBoard as a MQTT server and run with 
