@@ -9,8 +9,9 @@
 ### what's new
 - May 12, 2018 
 
-![ThingsBoard](https://github.com/coniferconifer/ESP32_Heart_Rate_MQTT/blob/master/HeartRate.jpg)
-## Heart sensor AD8323
+![ThingsBoard](https://github.com/coniferconifer/ESP32_Heart_Rate_MQTT/blob/master/ThingsBoardHR.png)
+
+### Heart sensor AD8323
 - analog output is connected to GPIO 34
 - Lead off + : GPIO 16
 - Lead off - : GPIO 17
